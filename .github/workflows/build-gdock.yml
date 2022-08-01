@@ -6,7 +6,6 @@
 name: Build G-DOCK
 
 on: 
-  workflow_dispatch:
   release:
     types: [published]
   push:
